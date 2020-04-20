@@ -14,6 +14,7 @@
 		EFEF704F244DFA150088E3FA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFEF704E244DFA150088E3FA /* Preview Assets.xcassets */; };
 		EFEF7052244DFA150088E3FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFEF7050244DFA150088E3FA /* LaunchScreen.storyboard */; };
 		EFEF705D244DFA150088E3FA /* SwiftUIChatAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFEF705C244DFA150088E3FA /* SwiftUIChatAppUITests.swift */; };
+		EFEF706A244DFECA0088E3FA /* ChatController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFEF7069244DFECA0088E3FA /* ChatController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		EFEF7058244DFA150088E3FA /* SwiftUIChatAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIChatAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFEF705C244DFA150088E3FA /* SwiftUIChatAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIChatAppUITests.swift; sourceTree = "<group>"; };
 		EFEF705E244DFA150088E3FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFEF7069244DFECA0088E3FA /* ChatController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				EFEF7045244DFA130088E3FA /* AppDelegate.swift */,
 				EFEF7047244DFA130088E3FA /* SceneDelegate.swift */,
 				EFEF7049244DFA130088E3FA /* ContentView.swift */,
+				EFEF7069244DFECA0088E3FA /* ChatController.swift */,
 				EFEF704B244DFA150088E3FA /* Assets.xcassets */,
 				EFEF7050244DFA150088E3FA /* LaunchScreen.storyboard */,
 				EFEF7053244DFA150088E3FA /* Info.plist */,
@@ -211,6 +214,7 @@
 				EFEF7046244DFA130088E3FA /* AppDelegate.swift in Sources */,
 				EFEF7048244DFA130088E3FA /* SceneDelegate.swift in Sources */,
 				EFEF704A244DFA130088E3FA /* ContentView.swift in Sources */,
+				EFEF706A244DFECA0088E3FA /* ChatController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
